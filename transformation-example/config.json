@@ -1,0 +1,8 @@
+{
+    "type": "transform",
+    "output": "{PLUGIN OUTPUT FILE NAME}",
+    "entry_file": "{PLUGIN ENTRY FILE NAME}",
+    "name": "{PLUGIN NAME}",
+    "description": "{PLUGIN DESCRIPTION}",
+    "column_type": "STRING" // Available values: "STRING" | "DATETIME" | "TIME" | "EMAIL" | "URL" | "FLOAT" | "INTEGER" | "DATE"
+}
